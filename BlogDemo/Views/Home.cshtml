@@ -1,0 +1,10 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<Umbraco.Web.PublishedModels.Home>
+@{
+    Layout = "Master.cshtml";
+}
+
+@* the fun starts here *@
+
+@Model.Value("title")
+<hr />
+@Model.Title
