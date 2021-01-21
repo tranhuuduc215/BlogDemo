@@ -6,4 +6,10 @@
 /BlogDemo/bin
 /BlogDemo/obj/Debug
 /BlogDemo/config
-/.vs/BlogDemo
+/.vs/BlogDemo/config
+/BlogDemo/IIS-Builder.ps1
+/BlogDemo/iis-config.json
+/BlogDemo/post.html
+/BlogDemo/index.html
+/BlogDemo/contact.html
+/BlogDemo/about.html
