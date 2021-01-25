@@ -16,3 +16,5 @@
 /BlogDemo.Core/bin
 /BlogDemo.Core/obj/Debug
 /BlogDemo/Media
+/BlogDemo.Core/app.config
+/BlogDemo.Core/packages.config
